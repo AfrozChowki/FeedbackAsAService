@@ -1,0 +1,9 @@
+export const RETRIEVE_BIKES = "RETRIEVE_BIKES";
+export const RETRIEVE_FEEDBACKS = "RETRIEVE_FEEDBACKS";
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+
+export const SET_MESSAGE = "SET_MESSAGE";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
